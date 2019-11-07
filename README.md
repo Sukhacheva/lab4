@@ -4,10 +4,18 @@
 
 Разделы и функции:
 1. Главная страница:
-  - Phonetics
-  - About This App
+    - Phonetics
+    - About This App
 2. Phonetics:
-  - manner
-  - place
-  - voice
+    - Consonants
+    - Vowels
+3. Consonants and Vowels:
+    - manner
+    - place
+    - voice
+4. Pronunciation of sounds:
+    - animation
+    - annotate
+    - video
+    - examples
  
